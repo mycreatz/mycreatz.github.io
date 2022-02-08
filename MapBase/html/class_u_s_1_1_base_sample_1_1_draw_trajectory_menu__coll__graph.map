@@ -1,0 +1,5 @@
+<map id="US.BaseSample.DrawTrajectoryMenu" name="US.BaseSample.DrawTrajectoryMenu">
+<area shape="rect" id="node1" title=" " alt="" coords="5,185,245,212"/>
+<area shape="rect" id="node2" title=" " alt="" coords="65,5,175,32"/>
+<area shape="rect" id="node3" href="$class_u_s_1_1_base_sample_1_1_sample_draw_trajectory.html" title=" " alt="" coords="141,81,336,123"/>
+</map>

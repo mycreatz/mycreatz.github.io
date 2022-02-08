@@ -1,0 +1,4 @@
+<map id="US.Events.MapEventSystem" name="US.Events.MapEventSystem">
+<area shape="rect" id="node1" title="이벤트 등록하여 사용 아무 오브젝트에 1개 지정하고 UpdateEvent.AddUpdateEvent(func)로 등록하면 업데이트에 func실행됨" alt="" coords="5,80,195,107"/>
+<area shape="rect" id="node2" title=" " alt="" coords="45,5,155,32"/>
+</map>
