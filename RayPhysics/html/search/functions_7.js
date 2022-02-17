@@ -1,7 +1,8 @@
 var searchData=
 [
-  ['imapaletest_0',['ImapaleTest',['../class_u_s_1_1_physics_1_1_moment.html#ae8d4590982ae5ae08f1b48636b0d2b27',1,'US::Physics::Moment']]],
-  ['imapaletestvertical_1',['ImapaleTestVertical',['../class_u_s_1_1_physics_1_1_moment.html#a130774befe47bf42dca128eb7bc3c9e7',1,'US::Physics::Moment']]],
-  ['initializeball_2',['InitializeBall',['../class_u_s_1_1_physics_1_1_ball_object.html#a83734ba3219235f67c27bca50ede2f45',1,'US::Physics::BallObject']]],
-  ['isfaded_3',['IsFaded',['../class_u_s_1_1_physics_1_1_moment.html#a12204aa70ff635d77523a8dfc9da705f',1,'US.Physics.Moment.IsFaded(float deltaTime)'],['../class_u_s_1_1_physics_1_1_moment.html#a52ce2b84d4cdc76c9251f6a34baefcf5',1,'US.Physics.Moment.IsFaded()']]]
+  ['imapaletest_0',['ImapaleTest',['../class_creatz_1_1_ray_physics_1_1_moment.html#a81ad5b7e61bab23f6656fe3c7200944b',1,'Creatz::RayPhysics::Moment']]],
+  ['imapaletestvertical_1',['ImapaleTestVertical',['../class_creatz_1_1_ray_physics_1_1_moment.html#a1b61ab9fcdab62faa78c51133a6b73d2',1,'Creatz::RayPhysics::Moment']]],
+  ['initializeball_2',['InitializeBall',['../class_creatz_1_1_ray_physics_1_1_ball_object.html#a90d551a985bb34c8a3d83c4b646687b4',1,'Creatz::RayPhysics::BallObject']]],
+  ['invokeafterupdated_3',['InvokeAfterUpdated',['../class_creatz_1_1_ray_physics_1_1_ball_object.html#a3a1ab02fcbc2aad5e0d8544c9deeff6a',1,'Creatz::RayPhysics::BallObject']]],
+  ['isfaded_4',['IsFaded',['../class_creatz_1_1_ray_physics_1_1_moment.html#aba4633178c3919943f7b78d3428d6c82',1,'Creatz.RayPhysics.Moment.IsFaded(float deltaTime)'],['../class_creatz_1_1_ray_physics_1_1_moment.html#ac90d6fe6ac5916f568ea3e3892501405',1,'Creatz.RayPhysics.Moment.IsFaded()']]]
 ];

@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['value_0',['value',['../class_u_s_1_1_physics_1_1_rand_float.html#a3dc6cd142ff4a812a45d188b17ed3e78',1,'US::Physics::RandFloat']]],
-  ['value_1',['Value',['../class_u_s_1_1_physics_1_1_moment.html#a157b0215c8f8d7eef305e7470d58a225',1,'US::Physics::Moment']]],
-  ['velocity_2',['Velocity',['../class_u_s_1_1_physics_1_1_ball.html#a67a92f121bef914b123d7da9cf60e57b',1,'US.Physics.Ball.Velocity()'],['../class_u_s_1_1_physics_1_1_bounding_trajectory.html#aef13132b14a8d6b138b1c25d713b834c',1,'US.Physics.BoundingTrajectory.Velocity()'],['../class_u_s_1_1_physics_1_1_moment.html#afcf25d63c1c2788fe12407c848b34c19',1,'US.Physics.Moment.Velocity()']]]
+  ['value_0',['Value',['../class_creatz_1_1_ray_physics_1_1_moment.html#a4d5b7e37a6311743fd7073ee8acf6095',1,'Creatz::RayPhysics::Moment']]],
+  ['value_1',['value',['../class_creatz_1_1_ray_physics_1_1_rand_float.html#a70b0761b3f6005a974e841bab39e72f2',1,'Creatz::RayPhysics::RandFloat']]],
+  ['velocity_2',['Velocity',['../class_creatz_1_1_ray_physics_1_1_ball.html#ad9b5aa2fbeeecce6a7fe4677e143aef7',1,'Creatz.RayPhysics.Ball.Velocity()'],['../class_creatz_1_1_ray_physics_1_1_bounding_trajectory.html#a7f8e666b7cabc87cb1f9fea188915a65',1,'Creatz.RayPhysics.BoundingTrajectory.Velocity()'],['../class_creatz_1_1_ray_physics_1_1_moment.html#aa15bfbeb926310debc94625fc6420607',1,'Creatz.RayPhysics.Moment.Velocity()']]]
 ];

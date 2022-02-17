@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['boundingtrajectory_0',['BoundingTrajectory',['../class_u_s_1_1_physics_1_1_bounding_trajectory.html#acdc30036a4691691263423f2e134b7cb',1,'US::Physics::BoundingTrajectory']]]
+  ['boundingtrajectory_0',['BoundingTrajectory',['../class_creatz_1_1_ray_physics_1_1_bounding_trajectory.html#a85e43f0aac82550d146a640dee13e489',1,'Creatz::RayPhysics::BoundingTrajectory']]]
 ];

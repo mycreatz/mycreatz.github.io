@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['hittype_0',['HitType',['../class_u_s_1_1_physics_1_1_moment_hit.html#a4329b98e7961d44895439cb07b5c9a12',1,'US::Physics::MomentHit']]]
+  ['hittype_0',['HitType',['../class_creatz_1_1_ray_physics_1_1_moment_hit.html#a80a6c5880d28e6a1f61eade00cc590ac',1,'Creatz::RayPhysics::MomentHit']]]
 ];

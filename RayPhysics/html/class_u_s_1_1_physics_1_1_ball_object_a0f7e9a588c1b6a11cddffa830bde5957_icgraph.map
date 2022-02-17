@@ -1,7 +1,0 @@
-<map id="US.Physics.BallObject.UpdateTrajectory" name="US.Physics.BallObject.UpdateTrajectory">
-<area shape="rect" id="node1" title=" " alt="" coords="767,43,967,84"/>
-<area shape="rect" id="node2" href="$class_u_s_1_1_physics_1_1_test_elements_1_1_launcher_test.html#a1d201a9f7cdd77a6cad03e6d1323dedf" title=" " alt="" coords="524,5,703,47"/>
-<area shape="rect" id="node3" href="$class_u_s_1_1_physics_1_1_test_elements_1_1_ball_trajectory_simulator.html#a5a81267dfcbf59e73968e6a529e8aa90" title=" " alt="" coords="508,71,719,127"/>
-<area shape="rect" id="node4" href="$class_u_s_1_1_physics_1_1_test_elements_1_1_launcher_test.html#a95eaea83d19a21f794316f620e40e7c7" title=" " alt="" coords="232,79,460,120"/>
-<area shape="rect" id="node5" href="$class_u_s_1_1_physics_1_1_test_elements_1_1_launcher_test.html#ac36f38792958c73a724846cf7a5ea6fe" title=" " alt="" coords="5,79,184,120"/>
-</map>

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['firstboundingtrajectory_0',['FirstBoundingTrajectory',['../class_u_s_1_1_physics_1_1_ball.html#acf212763e23d71c07b902615e131ecee',1,'US::Physics::Ball']]]
+  ['firstboundingtrajectory_0',['FirstBoundingTrajectory',['../class_creatz_1_1_ray_physics_1_1_ball.html#aec733154a410b2145d3f97f46017be0a',1,'Creatz::RayPhysics::Ball']]]
 ];

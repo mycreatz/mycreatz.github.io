@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['collider_0',['Collider',['../class_u_s_1_1_physics_1_1_moment_hit.html#a55f0ff5ebef8064578fd4f89ccff3ef2',1,'US::Physics::MomentHit']]]
+  ['collider_0',['Collider',['../class_creatz_1_1_ray_physics_1_1_moment_hit.html#a3fa9c1500270048488f2bb7ce533e0ad',1,'Creatz::RayPhysics::MomentHit']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['clone_0',['Clone',['../class_u_s_1_1_physics_1_1_moment.html#a54de5f3aaecb1f7e910cf923186f46e0',1,'US::Physics::Moment']]]
+  ['clone_0',['Clone',['../class_creatz_1_1_ray_physics_1_1_moment.html#af34b4f8af0fc3fe3e572b6300906e1b8',1,'Creatz::RayPhysics::Moment']]]
 ];

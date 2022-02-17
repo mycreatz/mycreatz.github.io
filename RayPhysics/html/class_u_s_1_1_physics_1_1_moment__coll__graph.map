@@ -1,8 +1,0 @@
-<map id="US.Physics.Moment" name="US.Physics.Moment">
-<area shape="rect" id="node1" title=" " alt="" coords="99,349,241,376"/>
-<area shape="rect" id="node2" href="$class_u_s_1_1_physics_1_1_ball.html" title=" " alt="" coords="237,171,354,197"/>
-<area shape="rect" id="node6" href="$class_u_s_1_1_physics_1_1_moment.html" title=" " alt="" coords="99,260,241,287"/>
-<area shape="rect" id="node3" href="$class_u_s_1_1_physics_1_1_preset_ball.html" title=" " alt="" coords="218,81,373,108"/>
-<area shape="rect" id="node4" title=" " alt="" coords="236,5,355,32"/>
-<area shape="rect" id="node5" href="$class_u_s_1_1_physics_1_1_moment_hit.html" title=" " alt="" coords="5,171,164,197"/>
-</map>

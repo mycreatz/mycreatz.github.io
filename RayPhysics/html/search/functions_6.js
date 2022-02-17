@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['getaccelatedvelocity_0',['GetAccelatedVelocity',['../class_u_s_1_1_physics_1_1_moment.html#a3ad1a32ad61ace1fa9b2addc46f56a21',1,'US::Physics::Moment']]],
-  ['getchildmoment_1',['GetChildMoment',['../class_u_s_1_1_physics_1_1_moment.html#af6758abc6103423226306ad015265702',1,'US::Physics::Moment']]],
-  ['getpreset_2',['GetPreset',['../class_u_s_1_1_physics_1_1_preset_holder.html#af370c37acda015d3f2cf06f7150a0ba5',1,'US::Physics::PresetHolder']]],
-  ['getupspinaxis_3',['GetUpSpinAxis',['../class_u_s_1_1_physics_1_1_ball.html#ab3e2d92a8d84f13e1d282da1a060f394',1,'US::Physics::Ball']]]
+  ['getaccelatedvelocity_0',['GetAccelatedVelocity',['../class_creatz_1_1_ray_physics_1_1_moment.html#afcc019a1baf40aea987fd63b2b0d8c0b',1,'Creatz::RayPhysics::Moment']]],
+  ['getchildmoment_1',['GetChildMoment',['../class_creatz_1_1_ray_physics_1_1_moment.html#a01c5dcc5928a84438d8a3da0b9924d8a',1,'Creatz::RayPhysics::Moment']]],
+  ['getpreset_2',['GetPreset',['../class_creatz_1_1_ray_physics_1_1_preset_holder.html#a9059dc08600804ef0ba3503acb90eef0',1,'Creatz::RayPhysics::PresetHolder']]],
+  ['getsidespinaxis_3',['GetSideSpinAxis',['../class_creatz_1_1_ray_physics_1_1_ball.html#a7e923e329e0a2f72b17b624ac3f946db',1,'Creatz::RayPhysics::Ball']]]
 ];

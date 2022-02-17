@@ -1,14 +1,14 @@
 var searchData=
 [
-  ['lastboundingtrajectory_0',['LastBoundingTrajectory',['../class_u_s_1_1_physics_1_1_ball.html#a8b034ef5b276f48047615f91469c7e3c',1,'US::Physics::Ball']]],
-  ['launch_1',['Launch',['../class_u_s_1_1_physics_1_1_test_elements_1_1_launcher_test.html#a1d201a9f7cdd77a6cad03e6d1323dedf',1,'US::Physics::TestElements::LauncherTest']]],
-  ['launchaxis_2',['LaunchAxis',['../class_u_s_1_1_physics_1_1_test_elements_1_1_launcher_test.html#a25abcb5066b83e35899fb7ed9df1606d',1,'US::Physics::TestElements::LauncherTest']]],
-  ['launchertest_3',['LauncherTest',['../class_u_s_1_1_physics_1_1_test_elements_1_1_launcher_test.html',1,'US::Physics::TestElements']]],
+  ['lastboundingtrajectory_0',['LastBoundingTrajectory',['../class_creatz_1_1_ray_physics_1_1_ball.html#a11e6913ecf29bd7b9d5172255b4426d3',1,'Creatz::RayPhysics::Ball']]],
+  ['launch_1',['Launch',['../class_creatz_1_1_ray_physics_1_1_test_elements_1_1_launcher_test.html#ac85cf3c42435e84d0f841ab9786aab98',1,'Creatz::RayPhysics::TestElements::LauncherTest']]],
+  ['launchaxis_2',['LaunchAxis',['../class_creatz_1_1_ray_physics_1_1_test_elements_1_1_launcher_test.html#a83e319bc62d25d58eee2259cdbce7d51',1,'Creatz::RayPhysics::TestElements::LauncherTest']]],
+  ['launchertest_3',['LauncherTest',['../class_creatz_1_1_ray_physics_1_1_test_elements_1_1_launcher_test.html',1,'Creatz::RayPhysics::TestElements']]],
   ['launchertest_2ecs_4',['LauncherTest.cs',['../_launcher_test_8cs.html',1,'']]],
-  ['launchpower_5',['LaunchPower',['../class_u_s_1_1_physics_1_1_test_elements_1_1_launcher_test.html#a95fc1f95c3264b8e2b541d3f0c4ba2d3',1,'US::Physics::TestElements::LauncherTest']]],
-  ['length_6',['Length',['../class_u_s_1_1_physics_1_1_moment.html#a05cd34672f4cba4959dc22c69bbaced3',1,'US::Physics::Moment']]],
-  ['lengthray_7',['lengthRay',['../class_u_s_1_1_physics_1_1_moment.html#ad4453e0c6846e9ded676537207e9bbc5',1,'US::Physics::Moment']]],
-  ['less_8',['Less',['../namespace_u_s_1_1_physics.html#a4cc4a85b86747701f679218d3fe00dbda1cfdf0e8d0c87a228c1f40d9bee7888b',1,'US::Physics']]],
-  ['linerenderer_9',['lineRenderer',['../class_u_s_1_1_physics_1_1_test_elements_1_1_launcher_test.html#a110a14148bf42ace37e35e4421ec0135',1,'US::Physics::TestElements::LauncherTest']]],
-  ['linerenderer_10',['LineRenderer',['../class_u_s_1_1_physics_1_1_test_elements_1_1_ball_trajectory_simulator.html#afdc37b4b49c7b2b54361e8aaf31022b4',1,'US::Physics::TestElements::BallTrajectorySimulator']]]
+  ['launchpower_5',['LaunchPower',['../class_creatz_1_1_ray_physics_1_1_test_elements_1_1_launcher_test.html#a8cd902478f729506f34684ae9bd67407',1,'Creatz::RayPhysics::TestElements::LauncherTest']]],
+  ['length_6',['Length',['../class_creatz_1_1_ray_physics_1_1_moment.html#a5d4c78ea9eb61ee17539a334ff7285dd',1,'Creatz::RayPhysics::Moment']]],
+  ['lengthray_7',['lengthRay',['../class_creatz_1_1_ray_physics_1_1_moment.html#aa1d2f8c307ae04ecfd83418c47ee5922',1,'Creatz::RayPhysics::Moment']]],
+  ['less_8',['Less',['../namespace_creatz_1_1_ray_physics.html#a438a06c6342452f1f1e123619473b1dca1cfdf0e8d0c87a228c1f40d9bee7888b',1,'Creatz::RayPhysics']]],
+  ['linerenderer_9',['lineRenderer',['../class_creatz_1_1_ray_physics_1_1_test_elements_1_1_launcher_test.html#a4dce9bd1cfd0a61aeadcf0b72578f993',1,'Creatz::RayPhysics::TestElements::LauncherTest']]],
+  ['linerenderer_10',['LineRenderer',['../class_creatz_1_1_ray_physics_1_1_test_elements_1_1_ball_trajectory_simulator.html#a4f6f78f0803bde8142ff0cca0109e602',1,'Creatz::RayPhysics::TestElements::BallTrajectorySimulator']]]
 ];

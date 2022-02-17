@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['backspinaxis_0',['BackSpinAxis',['../class_u_s_1_1_physics_1_1_ball.html#a2b1f15b7dba9a9d73a7c0c0f9f260019',1,'US::Physics::Ball']]]
+  ['backspinaxis_0',['BackSpinAxis',['../class_creatz_1_1_ray_physics_1_1_ball.html#ac721be626171c3e7ac22ef0ac1effd07',1,'Creatz::RayPhysics::Ball']]]
 ];

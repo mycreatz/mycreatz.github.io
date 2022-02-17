@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['elasticity_0',['Elasticity',['../class_u_s_1_1_physics_1_1_preset_ball.html#ae0d26ce842a07e0566efa5b42949f873',1,'US::Physics::PresetBall']]]
+  ['elasticity_0',['Elasticity',['../class_creatz_1_1_ray_physics_1_1_preset_ball.html#acdd6353974ed805d71d650e45897fcad',1,'Creatz::RayPhysics::PresetBall']]]
 ];

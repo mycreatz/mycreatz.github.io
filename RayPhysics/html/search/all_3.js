@@ -1,12 +1,15 @@
 var searchData=
 [
-  ['calculateboundingtrajectory_0',['CalculateBoundingTrajectory',['../class_u_s_1_1_physics_1_1_ball.html#a6dc31470f037a886fb78dffb51ad6917',1,'US.Physics.Ball.CalculateBoundingTrajectory(float backSpin, float sideSpin)'],['../class_u_s_1_1_physics_1_1_ball.html#a413f3ee5dcec3804ef15e2307b1828fd',1,'US.Physics.Ball.CalculateBoundingTrajectory(Vector3 baseLocalPosition, Vector3 baseRight, Vector3 baseFront, Vector3 velocity, float backSpin, float sideSpin)'],['../class_u_s_1_1_physics_1_1_ball.html#a7ffdd89255cfe33ffa2d38fe268e3364',1,'US.Physics.Ball.CalculateBoundingTrajectory(Transform transform, Vector3 velocity, float backSpin, float sideSpin)']]],
-  ['callbackafterupdated_1',['CallbackAfterUpdated',['../class_u_s_1_1_physics_1_1_ball_object.html#a278f1d5e1413d41aa8c019683b08ed37',1,'US::Physics::BallObject']]],
-  ['cambutton_2',['Cambutton',['../class_u_s_1_1_physics_1_1_test_elements_1_1_cambutton.html',1,'US::Physics::TestElements']]],
-  ['cambutton_2ecs_3',['Cambutton.cs',['../_cambutton_8cs.html',1,'']]],
-  ['castingray_4',['CastingRay',['../class_u_s_1_1_physics_1_1_moment.html#a199004cbc01821584e9056a71f9131cb',1,'US::Physics::Moment']]],
-  ['clear_5',['Clear',['../class_u_s_1_1_physics_1_1_test_elements_1_1_launcher_test.html#a9dbeae99309c851ce87852be3e3e5ffe',1,'US::Physics::TestElements::LauncherTest']]],
-  ['clone_6',['Clone',['../class_u_s_1_1_physics_1_1_moment.html#a54de5f3aaecb1f7e910cf923186f46e0',1,'US::Physics::Moment']]],
-  ['collider_7',['Collider',['../class_u_s_1_1_physics_1_1_moment_hit.html#a55f0ff5ebef8064578fd4f89ccff3ef2',1,'US::Physics::MomentHit']]],
-  ['cutby_8',['CutBy',['../class_u_s_1_1_physics_1_1_moment.html#a52153bf918d7113157f312eaa2fbbf75',1,'US::Physics::Moment']]]
+  ['calculateboundingtrajectory_0',['CalculateBoundingTrajectory',['../class_creatz_1_1_ray_physics_1_1_ball.html#a4a3475252fd799c2a88caa1129d0e8f2',1,'Creatz.RayPhysics.Ball.CalculateBoundingTrajectory(float backSpin, float sideSpin)'],['../class_creatz_1_1_ray_physics_1_1_ball.html#a2a001ee296d480b300a7e5cb3bc4cf3e',1,'Creatz.RayPhysics.Ball.CalculateBoundingTrajectory(Vector3 baseLocalPosition, Vector3 baseRight, Vector3 baseFront, Vector3 velocity, float backSpin, float sideSpin)'],['../class_creatz_1_1_ray_physics_1_1_ball.html#a25ece5b2f4353774dd8dfaab54a533ad',1,'Creatz.RayPhysics.Ball.CalculateBoundingTrajectory(Transform transform, Vector3 velocity, float backSpin, float sideSpin)']]],
+  ['cambutton_1',['Cambutton',['../class_creatz_1_1_ray_physics_1_1_test_elements_1_1_cambutton.html',1,'Creatz::RayPhysics::TestElements']]],
+  ['cambutton_2ecs_2',['Cambutton.cs',['../_cambutton_8cs.html',1,'']]],
+  ['castingray_3',['CastingRay',['../class_creatz_1_1_ray_physics_1_1_moment.html#aa3a9689d49e0579b46e503395677422e',1,'Creatz::RayPhysics::Moment']]],
+  ['clear_4',['Clear',['../class_creatz_1_1_ray_physics_1_1_test_elements_1_1_launcher_test.html#a8e5720e711cc443665cc663350ed7f10',1,'Creatz::RayPhysics::TestElements::LauncherTest']]],
+  ['clone_5',['Clone',['../class_creatz_1_1_ray_physics_1_1_moment.html#af34b4f8af0fc3fe3e572b6300906e1b8',1,'Creatz::RayPhysics::Moment']]],
+  ['collider_6',['Collider',['../class_creatz_1_1_ray_physics_1_1_moment_hit.html#a3fa9c1500270048488f2bb7ce533e0ad',1,'Creatz::RayPhysics::MomentHit']]],
+  ['creatz_7',['Creatz',['../namespace_creatz.html',1,'']]],
+  ['creatzballphysics_2ecs_8',['CreatzBallPhysics.cs',['../_creatz_ball_physics_8cs.html',1,'']]],
+  ['cutby_9',['CutBy',['../class_creatz_1_1_ray_physics_1_1_moment.html#a8bdf77033d094bb4f1fd593332545151',1,'Creatz::RayPhysics::Moment']]],
+  ['rayphysics_10',['RayPhysics',['../namespace_creatz_1_1_ray_physics.html',1,'Creatz']]],
+  ['testelements_11',['TestElements',['../namespace_creatz_1_1_ray_physics_1_1_test_elements.html',1,'Creatz::RayPhysics']]]
 ];

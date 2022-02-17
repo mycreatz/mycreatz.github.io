@@ -1,12 +1,8 @@
 var searchData=
 [
-  ['physics_0',['Physics',['../namespace_u_s_1_1_physics.html',1,'US']]],
-  ['testelements_1',['TestElements',['../namespace_u_s_1_1_physics_1_1_test_elements.html',1,'US::Physics']]],
-  ['unityphysics_2',['UnityPhysics',['../class_u_s_1_1_physics_1_1_moment_hit.html#a4329b98e7961d44895439cb07b5c9a12aa4cf95c466a2e329c1ac31ce26c61200',1,'US::Physics::MomentHit']]],
-  ['update_3',['Update',['../class_u_s_1_1_physics_1_1_test_elements_1_1_launcher_test.html#ac36f38792958c73a724846cf7a5ea6fe',1,'US::Physics::TestElements::LauncherTest']]],
-  ['updaterealtimeballmesh_4',['UpdateRealTimeBallMesh',['../class_u_s_1_1_physics_1_1_ball_object.html#a0a37251ddf6a4beb6c342ef407fa10a0',1,'US::Physics::BallObject']]],
-  ['updaterealtimeposition_5',['UpdateRealTimePosition',['../class_u_s_1_1_physics_1_1_ball_object.html#af691f53266b58ec0e06c5c9c4b21f50e',1,'US::Physics::BallObject']]],
-  ['updatetrajectory_6',['UpdateTrajectory',['../class_u_s_1_1_physics_1_1_ball_object.html#a0f7e9a588c1b6a11cddffa830bde5957',1,'US::Physics::BallObject']]],
-  ['us_7',['US',['../namespace_u_s.html',1,'']]],
-  ['usphysics_2ecs_8',['USPhysics.cs',['../_u_s_physics_8cs.html',1,'']]]
+  ['unityphysics_0',['UnityPhysics',['../class_creatz_1_1_ray_physics_1_1_moment_hit.html#a80a6c5880d28e6a1f61eade00cc590acaa4cf95c466a2e329c1ac31ce26c61200',1,'Creatz::RayPhysics::MomentHit']]],
+  ['update_1',['Update',['../class_creatz_1_1_ray_physics_1_1_test_elements_1_1_launcher_test.html#aa247c7ccd3a6c895cef1fbc4e232d776',1,'Creatz::RayPhysics::TestElements::LauncherTest']]],
+  ['updaterealtimeballmesh_2',['UpdateRealTimeBallMesh',['../class_creatz_1_1_ray_physics_1_1_ball_object.html#a81a7d0891445f3d070b3eb4ddbeeefb8',1,'Creatz::RayPhysics::BallObject']]],
+  ['updaterealtimeposition_3',['UpdateRealTimePosition',['../class_creatz_1_1_ray_physics_1_1_ball_object.html#a1a2da071d59a4a1e31acaa3292761521',1,'Creatz::RayPhysics::BallObject']]],
+  ['updatetrajectory_4',['UpdateTrajectory',['../class_creatz_1_1_ray_physics_1_1_ball_object.html#a0ac3282763c15aa6b2de2b31aa0d0ca6',1,'Creatz::RayPhysics::BallObject']]]
 ];

@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['setmeshrotation_0',['SetMeshRotation',['../class_u_s_1_1_physics_1_1_ball.html#ad8dd32ca24828629125a59b37e6c650e',1,'US.Physics.Ball.SetMeshRotation(Vector3 rotationAxis, float rpm)'],['../class_u_s_1_1_physics_1_1_ball.html#a815009022ebe43f18360edc9a88cccad',1,'US.Physics.Ball.SetMeshRotation(float backSpin, float sideSpin)']]],
-  ['simulateballline_1',['SimulateBallLine',['../class_u_s_1_1_physics_1_1_test_elements_1_1_ball_trajectory_simulator.html#a5a81267dfcbf59e73968e6a529e8aa90',1,'US::Physics::TestElements::BallTrajectorySimulator']]],
-  ['start_2',['Start',['../class_u_s_1_1_physics_1_1_test_elements_1_1_launcher_test.html#a2df2c07a28c4982df9d38d49ac77a7f3',1,'US::Physics::TestElements::LauncherTest']]]
+  ['seteulerspin_0',['SetEulerSpin',['../class_creatz_1_1_ray_physics_1_1_ball.html#aaa087fba18ecdc71cb398e2877964f08',1,'Creatz::RayPhysics::Ball']]],
+  ['setspin_1',['SetSpin',['../class_creatz_1_1_ray_physics_1_1_ball.html#a0bba8490be2cd7f08e276d24615c5dee',1,'Creatz::RayPhysics::Ball']]],
+  ['simulateballline_2',['SimulateBallLine',['../class_creatz_1_1_ray_physics_1_1_test_elements_1_1_ball_trajectory_simulator.html#a3a374bee80748b920ffeeab399ff4476',1,'Creatz::RayPhysics::TestElements::BallTrajectorySimulator']]],
+  ['start_3',['Start',['../class_creatz_1_1_ray_physics_1_1_test_elements_1_1_launcher_test.html#a174abecaf33c767483727cc14ad6b3d5',1,'Creatz::RayPhysics::TestElements::LauncherTest']]]
 ];

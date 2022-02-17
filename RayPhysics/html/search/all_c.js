@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['normal_0',['Normal',['../class_u_s_1_1_physics_1_1_moment_hit.html#a6eb70f787530ad46ac8ff8086177a6e1',1,'US::Physics::MomentHit']]]
+  ['normal_0',['Normal',['../class_creatz_1_1_ray_physics_1_1_moment_hit.html#a0e205c0b85c65a431b33e2dc76f22b7f',1,'Creatz::RayPhysics::MomentHit']]]
 ];

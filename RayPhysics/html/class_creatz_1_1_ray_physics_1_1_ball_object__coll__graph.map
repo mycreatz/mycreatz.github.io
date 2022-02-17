@@ -1,0 +1,7 @@
+<map id="Creatz.RayPhysics.BallObject" name="Creatz.RayPhysics.BallObject">
+<area shape="rect" id="node1" title="GameObject형 ball" alt="" coords="5,260,204,287"/>
+<area shape="rect" id="node2" title=" " alt="" coords="49,171,160,197"/>
+<area shape="rect" id="node3" href="$class_creatz_1_1_ray_physics_1_1_ball.html" title="RayPhysics 가상 ball Object" alt="" coords="185,171,345,197"/>
+<area shape="rect" id="node4" href="$class_creatz_1_1_ray_physics_1_1_preset_ball.html" title="Ball의 물리 특성 Preset" alt="" coords="165,81,364,108"/>
+<area shape="rect" id="node5" title=" " alt="" coords="205,5,324,32"/>
+</map>

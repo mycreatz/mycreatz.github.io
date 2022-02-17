@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['errortype_0',['ErrorType',['../namespace_u_s_1_1_physics.html#a4cc4a85b86747701f679218d3fe00dbd',1,'US::Physics']]]
+  ['errortype_0',['ErrorType',['../namespace_creatz_1_1_ray_physics.html#a438a06c6342452f1f1e123619473b1dc',1,'Creatz::RayPhysics']]]
 ];
