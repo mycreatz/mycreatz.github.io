@@ -66,6 +66,36 @@ $(function() {
   <div class="headertitle"><div class="title">MapBase Documentation</div></div>
 </div><!--header-->
 <div class="contents">
+    <h2><strong>RayPhysics 0.1.0 Update</strong></h2>
+    <p>&nbsp;<a href="https://mycreatz.github.io/RayPhysics/html/annotated.html"> &gt; Class References</a></p>
+    <p>&nbsp;</p>
+    <h3>1. namespace 변경(* 이전 버전에서 업데이트 할 경우 Ctrl R + R로 변경해 주셔야 합니다)</h3>
+    <ul>
+        <li>US -&gt; Creatz로 변경</li>
+        <li>Physics -&gt; RayPhysics로 변경</li>
+    </ul>
+    <p>&nbsp;</p>
+    <h3>2. Documentation</h3>
+    <ul>
+        <li>주석 작업 완료</li>
+        <li>Debug 비활성화 주석 제거</li>
+        <li>사용되지 않는 using reference 제거</li>
+    </ul>
+    <p>&nbsp;</p>
+    <h3>3. Class members</h3>
+    <ul>
+        <li>Moment.rawValue: 제거</li>
+        <li>Moment.begin: Moment.RayBegin으로 변경하여 의미 명시</li>
+        <li>BallPhysics.Status: 사용되지 않아 제거</li>
+        <li>to를 2로 쓴 표현을 모두 To로 변경</li>
+        <li>upSpin -&gt; sideSpin으로 표현 수정</li>
+        <li>Ball.SetMeshRotation: 각각 SetEulerSpin(Vector3, float), SetSpin(float, float)로 변경</li>
+        <li>BallObject.TestBallCallback: BallObject.OnBallUpdatedEvent로 변경</li>
+        <li>BallObject.RotationMesh: 제거</li>
+        <li>BallObject.rotationRaw: 제거</li>
+        <li>BallObject.ResetBall(): BallObject.ResetBallObject()로 변경하여 역할 명시</li>
+    </ul>
+    <p>&nbsp;</p>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
