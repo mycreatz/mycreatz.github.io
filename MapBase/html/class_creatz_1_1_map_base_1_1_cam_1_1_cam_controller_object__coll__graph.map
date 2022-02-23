@@ -1,0 +1,9 @@
+<map id="Creatz.MapBase.Cam.CamControllerObject" name="Creatz.MapBase.Cam.CamControllerObject">
+<area shape="rect" id="node1" title="CamController 초기화를 위해 필요" alt="" coords="36,425,272,467"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,336,116,363"/>
+<area shape="rect" id="node3" href="$class_creatz_1_1_map_base_1_1_map_renderer_u_s.html" title=" " alt="" coords="106,81,325,108"/>
+<area shape="rect" id="node6" href="$class_creatz_1_1_map_base_1_1_cam_1_1_cam_controller.html" title="CamControl for MapBase" alt="" coords="274,260,378,287"/>
+<area shape="rect" id="node7" href="$class_creatz_1_1_map_base_1_1_cam_1_1_cam_controller.html" title="CamControl for MapBase" alt="" coords="305,171,541,197"/>
+<area shape="rect" id="node4" title=" " alt="" coords="151,5,280,32"/>
+<area shape="rect" id="node5" href="$class_creatz_1_1_map_base_1_1_cam_1_1_cam_controller_maps.html" title=" " alt="" coords="192,336,460,363"/>
+</map>

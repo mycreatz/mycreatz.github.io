@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['xmax_0',['Xmax',['../struct_u_s_1_1_cam_1_1_rig_range.html#a9a074d8ae3024c06b9a6b1c2a8bce702',1,'US::Cam::RigRange']]],
-  ['xmin_1',['Xmin',['../struct_u_s_1_1_cam_1_1_rig_range.html#a3adfba61b3d7d688ba5c8dda5f850958',1,'US::Cam::RigRange']]]
+  ['xmax_0',['Xmax',['../struct_creatz_1_1_map_base_1_1_cam_1_1_rig_range.html#a2a9569e9e8c0b2bc914f9d4d30e466da',1,'Creatz::MapBase::Cam::RigRange']]],
+  ['xmin_1',['Xmin',['../struct_creatz_1_1_map_base_1_1_cam_1_1_rig_range.html#a0f4ecad2f12d9987266185e094a0be61',1,'Creatz::MapBase::Cam::RigRange']]]
 ];

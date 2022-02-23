@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['editor_0',['Editor',['../namespace_u_s.html#a102c1aeb64476a89daa80dd778f4b7d4a344a7f427fb765610ef96eb7bce95257',1,'US']]],
-  ['explore_1',['Explore',['../namespace_u_s.html#a102c1aeb64476a89daa80dd778f4b7d4a1819001b72329e2ef5799fe504238035',1,'US']]]
+  ['editor_0',['Editor',['../namespace_creatz.html#a08ae4d060de79b9d7770402a34f90490a344a7f427fb765610ef96eb7bce95257',1,'Creatz']]],
+  ['explore_1',['Explore',['../namespace_creatz.html#a08ae4d060de79b9d7770402a34f90490a1819001b72329e2ef5799fe504238035',1,'Creatz']]]
 ];

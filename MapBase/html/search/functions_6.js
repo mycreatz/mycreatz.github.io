@@ -1,5 +1,7 @@
 var searchData=
 [
-  ['holepresetdata_0',['HolePresetData',['../class_u_s_1_1_data_base_1_1_hole_preset_data.html#add908c1f6df32da4fe4f8ec010355c97',1,'US.DataBase.HolePresetData.HolePresetData(double teeLat, double teeLon, double teeAlt, double holeLat, double holeLon, double holeAlt, string name)'],['../class_u_s_1_1_data_base_1_1_hole_preset_data.html#afbb0aa84abb80de2d5e1b8559b367db9',1,'US.DataBase.HolePresetData.HolePresetData()']]],
-  ['hover_1',['Hover',['../class_u_s_1_1_u_i_1_1_picker_base.html#a615729bc4c555983b65f69b72613a9bf',1,'US::UI::PickerBase']]]
+  ['getdistance2lineonscreen_0',['GetDistance2LineOnScreen',['../class_creatz_1_1_map_base_1_1_line_render_handle.html#a53af23a624b9c3a6f3b596ba17a887fa',1,'Creatz::MapBase::LineRenderHandle']]],
+  ['getdistanceto_1',['GetDistanceTo',['../struct_creatz_1_1_map_base_1_1_line_on_screen.html#a6a33df94ad79a1f5793ff85f99d9c447',1,'Creatz::MapBase::LineOnScreen']]],
+  ['getnearestpointonlineonscreen_2',['GetNearestPointOnLineOnScreen',['../struct_creatz_1_1_map_base_1_1_line_on_screen.html#a57049531ffbfb6d286f7fbcfc2cd3362',1,'Creatz::MapBase::LineOnScreen']]],
+  ['getsampleresponse_3',['GetSampleResponse',['../class_creatz_1_1_map_base_1_1_sample_1_1_sample_draw_trajectory.html#aa5e781c23ac68c0f5ec8ffc712ff4b53',1,'Creatz::MapBase::Sample::SampleDrawTrajectory']]]
 ];

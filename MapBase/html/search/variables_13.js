@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['xmax_0',['Xmax',['../struct_u_s_1_1_cam_1_1_rig_range.html#a9a074d8ae3024c06b9a6b1c2a8bce702',1,'US::Cam::RigRange']]],
-  ['xmin_1',['Xmin',['../struct_u_s_1_1_cam_1_1_rig_range.html#a3adfba61b3d7d688ba5c8dda5f850958',1,'US::Cam::RigRange']]]
+  ['zoom_0',['Zoom',['../class_creatz_1_1_data_base_1_1_hole_preset_data.html#a84b83d66250e1e29baa0f0e24b0500c4',1,'Creatz::DataBase::HolePresetData']]]
 ];

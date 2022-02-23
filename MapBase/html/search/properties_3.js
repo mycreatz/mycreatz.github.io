@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['latlon_0',['LatLon',['../class_u_s_1_1_maps_1_1_map_pin_u_s_base.html#a978b276b3f865ca244e6890432bf1312',1,'US::Maps::MapPinUSBase']]],
-  ['location_1',['Location',['../class_u_s_1_1_maps_1_1_map_pin_u_s_base.html#aa8b2fbf6f602e8e8acfbaff6fca9c8a0',1,'US.Maps.MapPinUSBase.Location()'],['../class_u_s_1_1_u_i_1_1_picker_on_u_i.html#a001bf2b3596812b195a06eafd0f9da50',1,'US.UI.PickerOnUI.Location()']]],
-  ['locator_2',['Locator',['../class_u_s_1_1_u_i_1_1_picker_on_u_i.html#a900f325caa9b650ce4b45305155dc493',1,'US::UI::PickerOnUI']]],
-  ['locatorposition_3',['LocatorPosition',['../class_u_s_1_1_u_i_1_1_picker_on_u_i.html#ab72e5424f3b8e2d478f0044ca877df0f',1,'US::UI::PickerOnUI']]]
+  ['lastflyingtrajectory_0',['LastFlyingTrajectory',['../class_creatz_1_1_ray_physics_1_1_maps_support_1_1_ball_maps.html#aaf8aec0de86084966cefe51a5cb3e4d8',1,'Creatz::RayPhysics::MapsSupport::BallMaps']]],
+  ['latlon_1',['LatLon',['../class_creatz_1_1_map_base_1_1_map_pin_u_s_base.html#a5b53375f64c54dd3258581568b78967d',1,'Creatz::MapBase::MapPinUSBase']]],
+  ['linewidthdynamic_2',['LineWidthDynamic',['../class_creatz_1_1_map_base_1_1_line_render_handle.html#a17cda5322ce9152bcecd71e3433459c3',1,'Creatz::MapBase::LineRenderHandle']]],
+  ['location_3',['Location',['../class_creatz_1_1_map_base_1_1_map_pin_u_s_base.html#a261500213247bd3b5d562e78e938291d',1,'Creatz::MapBase::MapPinUSBase']]]
 ];

@@ -1,6 +1,9 @@
 var searchData=
 [
-  ['get_0',['Get',['../class_u_s_1_1_u_i_1_1_canvas_main.html#a66d6844f1087fb5b82fc36c0708ac1f0',1,'US::UI::CanvasMain']]],
-  ['getsampleresponse_1',['GetSampleResponse',['../class_u_s_1_1_base_sample_1_1_sample_draw_trajectory.html#a03ce19894243fd194c1879ce25435494',1,'US::BaseSample::SampleDrawTrajectory']]],
-  ['graphicraycaster_2',['GraphicRaycaster',['../class_u_s_1_1_u_i_1_1_canvas_main.html#af4e626e0145c5f804fa4b009c4df4e10',1,'US::UI::CanvasMain']]]
+  ['get_0',['Get',['../class_creatz_1_1_map_base_1_1_cam_1_1_ignore_picking_canvas.html#a8c9abebb72c9d2682f04258eedde3ee6',1,'Creatz.MapBase.Cam.IgnorePickingCanvas.Get()'],['../class_creatz_1_1_map_base_1_1_line_render_handle.html#aaf052554a1975ab03d088346afd1bcce',1,'Creatz.MapBase.LineRenderHandle.Get()']]],
+  ['getdistance2lineonscreen_1',['GetDistance2LineOnScreen',['../class_creatz_1_1_map_base_1_1_line_render_handle.html#a53af23a624b9c3a6f3b596ba17a887fa',1,'Creatz::MapBase::LineRenderHandle']]],
+  ['getdistanceto_2',['GetDistanceTo',['../struct_creatz_1_1_map_base_1_1_line_on_screen.html#a6a33df94ad79a1f5793ff85f99d9c447',1,'Creatz::MapBase::LineOnScreen']]],
+  ['getnearestpointonlineonscreen_3',['GetNearestPointOnLineOnScreen',['../struct_creatz_1_1_map_base_1_1_line_on_screen.html#a57049531ffbfb6d286f7fbcfc2cd3362',1,'Creatz::MapBase::LineOnScreen']]],
+  ['getsampleresponse_4',['GetSampleResponse',['../class_creatz_1_1_map_base_1_1_sample_1_1_sample_draw_trajectory.html#aa5e781c23ac68c0f5ec8ffc712ff4b53',1,'Creatz::MapBase::Sample::SampleDrawTrajectory']]],
+  ['graphicraycaster_5',['GraphicRaycaster',['../class_creatz_1_1_map_base_1_1_cam_1_1_ignore_picking_canvas.html#a425eceecde9a6e05a0ddb6386fb92481',1,'Creatz::MapBase::Cam::IgnorePickingCanvas']]]
 ];
