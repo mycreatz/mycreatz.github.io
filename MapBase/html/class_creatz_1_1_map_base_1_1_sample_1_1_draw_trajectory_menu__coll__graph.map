@@ -3,7 +3,7 @@
 <area shape="rect" id="node2" title=" " alt="" coords="5,43,116,69"/>
 <area shape="rect" id="node3" href="$class_creatz_1_1_map_base_1_1_sample_1_1_sample_draw_trajectory.html" title=" " alt="" coords="665,63,879,105"/>
 <area shape="rect" id="node5" href="$class_creatz_1_1_map_base_1_1_events_1_1_map_event_behaviour.html" title="Map 상태에 따라 업데이트가 활성/비활성 되는 MonoBehavior" alt="" coords="165,140,300,167"/>
-<area shape="rect" id="node4" href="$class_creatz_1_1_map_base_1_1_line_render_handle.html" title="Trajectory ǥÇöÇϱâ ��ÇÑ LineRenderer control" alt="" coords="349,133,537,174"/>
+<area shape="rect" id="node4" href="$class_creatz_1_1_map_base_1_1_line_render_handle.html" title="Trajectory 표현하기 위한 LineRenderer control" alt="" coords="349,133,537,174"/>
 <area shape="rect" id="node6" href="$class_creatz_1_1_ray_physics_1_1_maps_support_1_1_ball_maps.html" title="Flying Object 연결 기능을 가진 MapBase 전용 BallObject" alt="" coords="663,170,881,211"/>
 <area shape="rect" id="node7" title=" " alt="" coords="402,199,485,225"/>
 </map>

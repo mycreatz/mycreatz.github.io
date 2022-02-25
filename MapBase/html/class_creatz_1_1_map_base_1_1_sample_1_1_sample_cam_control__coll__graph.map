@@ -1,5 +1,5 @@
 <map id="Creatz.MapBase.Sample.SampleCamControl" name="Creatz.MapBase.Sample.SampleCamControl">
-<area shape="rect" id="node1" title="CamObject ��¼Ó ���Ã" alt="" coords="47,501,261,543"/>
+<area shape="rect" id="node1" title="CamObject 상속 예시" alt="" coords="47,501,261,543"/>
 <area shape="rect" id="node2" href="$class_creatz_1_1_map_base_1_1_cam_1_1_cam_controller_object.html" title="CamController 초기화를 위해 필요" alt="" coords="83,425,225,452"/>
 <area shape="rect" id="node3" title=" " alt="" coords="5,336,116,363"/>
 <area shape="rect" id="node4" href="$class_creatz_1_1_map_base_1_1_map_renderer_u_s.html" title=" " alt="" coords="106,81,325,108"/>

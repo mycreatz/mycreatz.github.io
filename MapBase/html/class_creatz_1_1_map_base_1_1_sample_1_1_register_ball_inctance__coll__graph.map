@@ -1,5 +1,5 @@
 <map id="Creatz.MapBase.Sample.RegisterBallInctance" name="Creatz.MapBase.Sample.RegisterBallInctance">
-<area shape="rect" id="node1" title="DrawTrajectoryMenu.LastBallInstantce�� ��»ó ballMaps�� ��·Ï" alt="" coords="5,185,224,227"/>
+<area shape="rect" id="node1" title="DrawTrajectoryMenu.LastBallInstantce에 대상 ballMaps를 등록" alt="" coords="5,185,224,227"/>
 <area shape="rect" id="node2" title=" " alt="" coords="38,89,149,115"/>
 <area shape="rect" id="node3" href="$class_creatz_1_1_ray_physics_1_1_maps_support_1_1_ball_maps.html" title="Flying Object 연결 기능을 가진 MapBase 전용 BallObject" alt="" coords="173,81,392,123"/>
 <area shape="rect" id="node4" title=" " alt="" coords="241,5,324,32"/>
