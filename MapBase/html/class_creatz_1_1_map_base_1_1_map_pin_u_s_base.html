@@ -76,12 +76,15 @@ $(function() {
   <div class="headertitle"><div class="title">Creatz.MapBase.MapPinUSBase Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p>Creatz.MapBase용 MapPin  
+ <a href="class_creatz_1_1_map_base_1_1_map_pin_u_s_base.html#details">More...</a></p>
 <div class="dynheader">
 Inheritance diagram for Creatz.MapBase.MapPinUSBase:</div>
 <div class="dyncontent">
 <div class="center"><img src="class_creatz_1_1_map_base_1_1_map_pin_u_s_base__inherit__graph.png" border="0" usemap="#a_creatz_8_map_base_8_map_pin_u_s_base_inherit__map" alt="Inheritance graph"/></div>
 <map name="a_creatz_8_map_base_8_map_pin_u_s_base_inherit__map" id="a_creatz_8_map_base_8_map_pin_u_s_base_inherit__map">
-<area shape="rect" title=" " alt="" coords="45,155,260,181"/>
+<area shape="rect" title="Creatz.MapBase용 MapPin" alt="" coords="45,155,260,181"/>
 <area shape="rect" href="class_creatz_1_1_map_base_1_1_map_pin_u_s.html" title=" " alt="" coords="60,229,245,256"/>
 <area shape="rect" href="class_creatz_1_1_map_base_1_1_events_1_1_map_event_behaviour.html" title="Map 상태에 따라 업데이트가 활성/비활성 되는 MonoBehavior" alt="" coords="5,80,140,107"/>
 <area shape="rect" title=" " alt="" coords="17,5,128,32"/>
@@ -93,7 +96,7 @@ Collaboration diagram for Creatz.MapBase.MapPinUSBase:</div>
 <div class="dyncontent">
 <div class="center"><img src="class_creatz_1_1_map_base_1_1_map_pin_u_s_base__coll__graph.png" border="0" usemap="#a_creatz_8_map_base_8_map_pin_u_s_base_coll__map" alt="Collaboration graph"/></div>
 <map name="a_creatz_8_map_base_8_map_pin_u_s_base_coll__map" id="a_creatz_8_map_base_8_map_pin_u_s_base_coll__map">
-<area shape="rect" title=" " alt="" coords="127,171,341,197"/>
+<area shape="rect" title="Creatz.MapBase용 MapPin" alt="" coords="127,171,341,197"/>
 <area shape="rect" href="class_creatz_1_1_map_base_1_1_events_1_1_map_event_behaviour.html" title="Map 상태에 따라 업데이트가 활성/비활성 되는 MonoBehavior" alt="" coords="5,81,140,108"/>
 <area shape="rect" title=" " alt="" coords="17,5,128,32"/>
 <area shape="rect" href="interface_creatz_1_1_i_load_map_dependent.html" title=" " alt="" coords="164,81,304,108"/>
@@ -104,11 +107,14 @@ Collaboration diagram for Creatz.MapBase.MapPinUSBase:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a1a730a79ab0760a6f2b0f5535c5f04ad"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_creatz_1_1_map_base_1_1_map_pin_u_s_base.html#a1a730a79ab0760a6f2b0f5535c5f04ad">LoadMapUntilLoad</a> ()</td></tr>
-<tr class="separator:a1a730a79ab0760a6f2b0f5535c5f04ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a79a5bf7dd520206c9871912e45776a95"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_creatz_1_1_map_base_1_1_map_pin_u_s_base.html#a79a5bf7dd520206c9871912e45776a95">TryRunLatedUpdate</a> ()</td></tr>
+<tr class="memdesc:a79a5bf7dd520206c9871912e45776a95"><td class="mdescLeft">&#160;</td><td class="mdescRight">Map이 로드 완료될 때까지 기다린 후 LatedPinUpdate 처리  <a href="class_creatz_1_1_map_base_1_1_map_pin_u_s_base.html#a79a5bf7dd520206c9871912e45776a95">More...</a><br /></td></tr>
+<tr class="separator:a79a5bf7dd520206c9871912e45776a95"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac8685ee6176bd3c4431ddb8695c51d73"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_creatz_1_1_map_base_1_1_map_pin_u_s_base.html#ac8685ee6176bd3c4431ddb8695c51d73">UpdateLocation</a> ()</td></tr>
+<tr class="memdesc:ac8685ee6176bd3c4431ddb8695c51d73"><td class="mdescLeft">&#160;</td><td class="mdescRight">바뀐 location으로 대상 GameObject위치를 변경  <a href="class_creatz_1_1_map_base_1_1_map_pin_u_s_base.html#ac8685ee6176bd3c4431ddb8695c51d73">More...</a><br /></td></tr>
 <tr class="separator:ac8685ee6176bd3c4431ddb8695c51d73"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac884f6513d7d148ef83a7fad2aec608a"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_creatz_1_1_map_base_1_1_map_pin_u_s_base.html#ac884f6513d7d148ef83a7fad2aec608a">UpdateScale</a> ()</td></tr>
+<tr class="memdesc:ac884f6513d7d148ef83a7fad2aec608a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Scalable일 경우 바뀐 zoom에 따라 Scale 변경  <a href="class_creatz_1_1_map_base_1_1_map_pin_u_s_base.html#ac884f6513d7d148ef83a7fad2aec608a">More...</a><br /></td></tr>
 <tr class="separator:ac884f6513d7d148ef83a7fad2aec608a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a012caacd1c9fd4de040539d62e7408c5"><td class="memItemLeft" align="right" valign="top">override void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_creatz_1_1_map_base_1_1_map_pin_u_s_base.html#a012caacd1c9fd4de040539d62e7408c5">RegisterEvents</a> ()</td></tr>
 <tr class="memdesc:a012caacd1c9fd4de040539d62e7408c5"><td class="mdescLeft">&#160;</td><td class="mdescRight">TargetState에서 실행될 콜백들을 등록  <a href="class_creatz_1_1_map_base_1_1_map_pin_u_s_base.html#a012caacd1c9fd4de040539d62e7408c5">More...</a><br /></td></tr>
@@ -141,14 +147,16 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:abac86fa857e96f43e7085add4422f08b inherit pub_methods_class_creatz_1_1_map_base_1_1_events_1_1_map_event_behaviour"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_creatz_1_1_map_base_1_1_events_1_1_map_event_behaviour.html#abac86fa857e96f43e7085add4422f08b">SetTargetState</a> ()</td></tr>
 <tr class="memdesc:abac86fa857e96f43e7085add4422f08b inherit pub_methods_class_creatz_1_1_map_base_1_1_events_1_1_map_event_behaviour"><td class="mdescLeft">&#160;</td><td class="mdescRight">override 안하면 always가 기본값  <a href="class_creatz_1_1_map_base_1_1_events_1_1_map_event_behaviour.html#abac86fa857e96f43e7085add4422f08b">More...</a><br /></td></tr>
 <tr class="separator:abac86fa857e96f43e7085add4422f08b inherit pub_methods_class_creatz_1_1_map_base_1_1_events_1_1_map_event_behaviour"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9b4ca7058f2b5cb065a96d57a807ef2c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_creatz_1_1_i_load_map_dependent.html#a9b4ca7058f2b5cb065a96d57a807ef2c">LoadMapUntilLoad</a> ()</td></tr>
-<tr class="separator:a9b4ca7058f2b5cb065a96d57a807ef2c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae0cb3226461fa72e748d08e3dffa106e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_creatz_1_1_i_load_map_dependent.html#ae0cb3226461fa72e748d08e3dffa106e">TryRunLatedUpdate</a> ()</td></tr>
+<tr class="separator:ae0cb3226461fa72e748d08e3dffa106e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
 <tr class="memitem:a9ed6a57a2d511d9fe46459727652288b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_creatz_1_1_map_base_1_1_map_pin_u_s_base.html#a9ed6a57a2d511d9fe46459727652288b">Scalable</a> = false</td></tr>
+<tr class="memdesc:a9ed6a57a2d511d9fe46459727652288b"><td class="mdescLeft">&#160;</td><td class="mdescRight">T: zoom에 따라 크기 바뀜  <a href="class_creatz_1_1_map_base_1_1_map_pin_u_s_base.html#a9ed6a57a2d511d9fe46459727652288b">More...</a><br /></td></tr>
 <tr class="separator:a9ed6a57a2d511d9fe46459727652288b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3800a0d3b239f54837782a809e103f91"><td class="memItemLeft" align="right" valign="top">Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_creatz_1_1_map_base_1_1_map_pin_u_s_base.html#a3800a0d3b239f54837782a809e103f91">positionAnchor</a> = Vector3.zero</td></tr>
+<tr class="memdesc:a3800a0d3b239f54837782a809e103f91"><td class="mdescLeft">&#160;</td><td class="mdescRight">대상 GameObject의 위치 보정값  <a href="class_creatz_1_1_map_base_1_1_map_pin_u_s_base.html#a3800a0d3b239f54837782a809e103f91">More...</a><br /></td></tr>
 <tr class="separator:a3800a0d3b239f54837782a809e103f91"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae40b0baacfc097e1869cbce240c4f0b2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_creatz_1_1_map_base_1_1_map_renderer_u_s.html">MapRendererUS</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_creatz_1_1_map_base_1_1_map_pin_u_s_base.html#ae40b0baacfc097e1869cbce240c4f0b2">targetMap</a></td></tr>
 <tr class="separator:ae40b0baacfc097e1869cbce240c4f0b2"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -169,10 +177,13 @@ Protected Attributes</h2></td></tr>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="properties" name="properties"></a>
 Properties</h2></td></tr>
 <tr class="memitem:a261500213247bd3b5d562e78e938291d"><td class="memItemLeft" align="right" valign="top">LatLonAlt&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_creatz_1_1_map_base_1_1_map_pin_u_s_base.html#a261500213247bd3b5d562e78e938291d">Location</a><code> [get, set]</code></td></tr>
+<tr class="memdesc:a261500213247bd3b5d562e78e938291d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Pin할 LatLonAlt  <a href="class_creatz_1_1_map_base_1_1_map_pin_u_s_base.html#a261500213247bd3b5d562e78e938291d">More...</a><br /></td></tr>
 <tr class="separator:a261500213247bd3b5d562e78e938291d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5b53375f64c54dd3258581568b78967d"><td class="memItemLeft" align="right" valign="top">LatLon&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_creatz_1_1_map_base_1_1_map_pin_u_s_base.html#a5b53375f64c54dd3258581568b78967d">LatLon</a><code> [get, set]</code></td></tr>
+<tr class="memdesc:a5b53375f64c54dd3258581568b78967d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Altitude는 지면과 일치  <a href="class_creatz_1_1_map_base_1_1_map_pin_u_s_base.html#a5b53375f64c54dd3258581568b78967d">More...</a><br /></td></tr>
 <tr class="separator:a5b53375f64c54dd3258581568b78967d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a94e0b1cbc556924ff1a7f82d1ffcb7d2"><td class="memItemLeft" align="right" valign="top">Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_creatz_1_1_map_base_1_1_map_pin_u_s_base.html#a94e0b1cbc556924ff1a7f82d1ffcb7d2">Position</a><code> [get, set]</code></td></tr>
+<tr class="memdesc:a94e0b1cbc556924ff1a7f82d1ffcb7d2"><td class="mdescLeft">&#160;</td><td class="mdescRight">WorldPosition  <a href="class_creatz_1_1_map_base_1_1_map_pin_u_s_base.html#a94e0b1cbc556924ff1a7f82d1ffcb7d2">More...</a><br /></td></tr>
 <tr class="separator:a94e0b1cbc556924ff1a7f82d1ffcb7d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header properties_class_creatz_1_1_map_base_1_1_events_1_1_map_event_behaviour"><td colspan="2" onclick="javascript:toggleInherit('properties_class_creatz_1_1_map_base_1_1_events_1_1_map_event_behaviour')"><img src="closed.png" alt="-"/>&#160;Properties inherited from <a class="el" href="class_creatz_1_1_map_base_1_1_events_1_1_map_event_behaviour.html">Creatz.MapBase.Events.MapEventBehaviour</a></td></tr>
 <tr class="memitem:a1f3a6e8bff84b4be5695e78aae5cfc99 inherit properties_class_creatz_1_1_map_base_1_1_events_1_1_map_event_behaviour"><td class="memItemLeft" align="right" valign="top"><a class="el" href="namespace_creatz.html#a08ae4d060de79b9d7770402a34f90490">MapState</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_creatz_1_1_map_base_1_1_events_1_1_map_event_behaviour.html#a1f3a6e8bff84b4be5695e78aae5cfc99">TargetState</a><code> [get, set]</code></td></tr>
@@ -193,34 +204,10 @@ Additional Inherited Members</h2></td></tr>
 <tr class="memitem:aed14d6ed9e877b45029be6acc2b1af92 inherit pro_methods_class_creatz_1_1_map_base_1_1_events_1_1_map_event_behaviour"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_creatz_1_1_map_base_1_1_events_1_1_map_event_behaviour.html#aed14d6ed9e877b45029be6acc2b1af92">Awake</a> ()</td></tr>
 <tr class="separator:aed14d6ed9e877b45029be6acc2b1af92 inherit pro_methods_class_creatz_1_1_map_base_1_1_events_1_1_map_event_behaviour"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a1a730a79ab0760a6f2b0f5535c5f04ad" name="a1a730a79ab0760a6f2b0f5535c5f04ad"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1a730a79ab0760a6f2b0f5535c5f04ad">&#9670;&nbsp;</a></span>LoadMapUntilLoad()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual void Creatz.MapBase.MapPinUSBase.LoadMapUntilLoad </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Implements <a class="el" href="interface_creatz_1_1_i_load_map_dependent.html#a9b4ca7058f2b5cb065a96d57a807ef2c">Creatz.ILoadMapDependent</a>.</p>
-
-</div>
-</div>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p >Creatz.MapBase용 MapPin </p>
+<p >전용으로 구현되어 Microsoft의 MapPin보다 적은 계산으로 빠르게 작동</p>
+</div><h2 class="groupheader">Member Function Documentation</h2>
 <a id="a012caacd1c9fd4de040539d62e7408c5" name="a012caacd1c9fd4de040539d62e7408c5"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a012caacd1c9fd4de040539d62e7408c5">&#9670;&nbsp;</a></span>RegisterEvents()</h2>
 
@@ -256,6 +243,35 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
+<a id="a79a5bf7dd520206c9871912e45776a95" name="a79a5bf7dd520206c9871912e45776a95"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a79a5bf7dd520206c9871912e45776a95">&#9670;&nbsp;</a></span>TryRunLatedUpdate()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void Creatz.MapBase.MapPinUSBase.TryRunLatedUpdate </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Map이 로드 완료될 때까지 기다린 후 LatedPinUpdate 처리 </p>
+
+<p>Implements <a class="el" href="interface_creatz_1_1_i_load_map_dependent.html#ae0cb3226461fa72e748d08e3dffa106e">Creatz.ILoadMapDependent</a>.</p>
+
+</div>
+</div>
 <a id="ac8685ee6176bd3c4431ddb8695c51d73" name="ac8685ee6176bd3c4431ddb8695c51d73"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ac8685ee6176bd3c4431ddb8695c51d73">&#9670;&nbsp;</a></span>UpdateLocation()</h2>
 
@@ -278,6 +294,8 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>바뀐 location으로 대상 GameObject위치를 변경 </p>
 
 </div>
 </div>
@@ -303,6 +321,8 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>Scalable일 경우 바뀐 zoom에 따라 Scale 변경 </p>
 
 </div>
 </div>
@@ -413,6 +433,8 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>대상 GameObject의 위치 보정값 </p>
+
 </div>
 </div>
 <a id="a9ed6a57a2d511d9fe46459727652288b" name="a9ed6a57a2d511d9fe46459727652288b"></a>
@@ -426,6 +448,9 @@ Additional Inherited Members</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>T: zoom에 따라 크기 바뀜 </p>
+<p >F: zoom에 크기 영향 받지 않음</p>
 
 </div>
 </div>
@@ -464,6 +489,8 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
+<p>Altitude는 지면과 일치 </p>
+
 </div>
 </div>
 <a id="a261500213247bd3b5d562e78e938291d" name="a261500213247bd3b5d562e78e938291d"></a>
@@ -486,6 +513,8 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
+<p>Pin할 LatLonAlt </p>
+
 </div>
 </div>
 <a id="a94e0b1cbc556924ff1a7f82d1ffcb7d2" name="a94e0b1cbc556924ff1a7f82d1ffcb7d2"></a>
@@ -507,6 +536,8 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>WorldPosition </p>
 
 </div>
 </div>

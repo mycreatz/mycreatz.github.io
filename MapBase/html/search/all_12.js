@@ -19,5 +19,6 @@ var searchData=
   ['tostring_16',['ToString',['../class_creatz_1_1_map_base_1_1_delta.html#a4eee865915d7b4709e8cd08f7f3ca580',1,'Creatz::MapBase::Delta']]],
   ['transformfromhitinfo_17',['TransformFromHitInfo',['../class_creatz_1_1_map_base_1_1_map_pin_u_s.html#ae24c3327f0dd49cab8aa17ef47e17fc6',1,'Creatz::MapBase::MapPinUS']]],
   ['tryconncettosensor_18',['TryConncetToSensor',['../class_creatz_1_1_map_base_1_1_sample_1_1_sample_draw_trajectory.html#a96bcfaa0fef652bf3e8534b4d8396784',1,'Creatz::MapBase::Sample::SampleDrawTrajectory']]],
-  ['type_19',['Type',['../class_creatz_1_1_data_base_1_1_hole_preset_data.html#a9bea07b75d87786dbf1b882a6eb5b3c3',1,'Creatz::DataBase::HolePresetData']]]
+  ['tryrunlatedupdate_19',['TryRunLatedUpdate',['../interface_creatz_1_1_i_load_map_dependent.html#ae0cb3226461fa72e748d08e3dffa106e',1,'Creatz.ILoadMapDependent.TryRunLatedUpdate()'],['../class_creatz_1_1_map_base_1_1_map_pin_u_s_base.html#a79a5bf7dd520206c9871912e45776a95',1,'Creatz.MapBase.MapPinUSBase.TryRunLatedUpdate()']]],
+  ['type_20',['Type',['../class_creatz_1_1_data_base_1_1_hole_preset_data.html#a9bea07b75d87786dbf1b882a6eb5b3c3',1,'Creatz::DataBase::HolePresetData']]]
 ];

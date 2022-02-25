@@ -18,10 +18,8 @@ var searchData=
   ['settargetstates_15',['SetTargetStates',['../class_creatz_1_1_map_base_1_1_events_1_1_map_event_behaviour.html#a65945805a64700405b50bd4de9af317a',1,'Creatz::MapBase::Events::MapEventBehaviour']]],
   ['shotdatajson_16',['ShotDataJson',['../class_creatz_1_1_map_base_1_1_sample_1_1_sample_draw_trajectory.html#a7620579776f9b90fe9f99ff2922582c8',1,'Creatz::MapBase::Sample::SampleDrawTrajectory']]],
   ['shotdatasupports_2ecs_17',['ShotDataSupports.cs',['../_shot_data_supports_8cs.html',1,'']]],
-  ['speeddown_18',['SpeedDown',['../class_creatz_1_1_map_base_1_1_events_1_1_key_control.html#a060c21de60fdea455d10b01d0e224bbc',1,'Creatz::MapBase::Events::KeyControl']]],
-  ['speedup_19',['SpeedUp',['../class_creatz_1_1_map_base_1_1_events_1_1_key_control.html#a8813de519591170835d39ef3f0b6d489',1,'Creatz::MapBase::Events::KeyControl']]],
-  ['spenttime_20',['spentTime',['../class_creatz_1_1_ray_physics_1_1_maps_support_1_1_ball_maps.html#aea36768eb72fc73cbb3c3521b556bd90',1,'Creatz::RayPhysics::MapsSupport::BallMaps']]],
-  ['state_21',['State',['../class_creatz_1_1_map_info.html#a130c16eaad1aaaa02f06349e6bcd530f',1,'Creatz.MapInfo.State()'],['../class_creatz_1_1_map_base_1_1_cam_1_1_cam_controller.html#a822cb7e3ee3c5a6e6a62b0af3038c994',1,'Creatz.MapBase.Cam.CamController.State()'],['../class_creatz_1_1_map_base_1_1_events_1_1_map_event_system.html#ab34f1d4945231540a8adabcfeb16f349',1,'Creatz.MapBase.Events.MapEventSystem.State()']]],
-  ['statechanged_22',['StateChanged',['../struct_creatz_1_1_map_base_1_1_events_1_1_map_events_1_1_functions.html#afaf66c45ef45fcf9c556e94d92050313',1,'Creatz::MapBase::Events::MapEvents::Functions']]],
-  ['stopthreshold_23',['StopThreshold',['../struct_creatz_1_1_map_base_1_1_cam_1_1_map_drag.html#a09bc30c6f9a26161b3e7bdada8884216',1,'Creatz::MapBase::Cam::MapDrag']]]
+  ['spenttime_18',['spentTime',['../class_creatz_1_1_ray_physics_1_1_maps_support_1_1_ball_maps.html#aea36768eb72fc73cbb3c3521b556bd90',1,'Creatz::RayPhysics::MapsSupport::BallMaps']]],
+  ['state_19',['State',['../class_creatz_1_1_map_info.html#a130c16eaad1aaaa02f06349e6bcd530f',1,'Creatz.MapInfo.State()'],['../class_creatz_1_1_map_base_1_1_cam_1_1_cam_controller.html#a822cb7e3ee3c5a6e6a62b0af3038c994',1,'Creatz.MapBase.Cam.CamController.State()'],['../class_creatz_1_1_map_base_1_1_events_1_1_map_event_system.html#ab34f1d4945231540a8adabcfeb16f349',1,'Creatz.MapBase.Events.MapEventSystem.State()']]],
+  ['statechanged_20',['StateChanged',['../struct_creatz_1_1_map_base_1_1_events_1_1_map_events_1_1_functions.html#afaf66c45ef45fcf9c556e94d92050313',1,'Creatz::MapBase::Events::MapEvents::Functions']]],
+  ['stopthreshold_21',['StopThreshold',['../struct_creatz_1_1_map_base_1_1_cam_1_1_map_drag.html#a09bc30c6f9a26161b3e7bdada8884216',1,'Creatz::MapBase::Cam::MapDrag']]]
 ];

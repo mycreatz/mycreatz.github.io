@@ -72,7 +72,7 @@ $(function() {
 <tr><td><img src="inherit_graph_0.png" border="0" usemap="#a_ball_object" alt=""/>
 <map name="a_ball_object" id="a_ball_object">
 <area shape="rect" title=" " alt="" coords="5,13,88,39"/>
-<area shape="rect" href="class_creatz_1_1_ray_physics_1_1_maps_support_1_1_ball_maps.html" title=" " alt="" coords="136,5,355,47"/>
+<area shape="rect" href="class_creatz_1_1_ray_physics_1_1_maps_support_1_1_ball_maps.html" title="Flying Object 연결 기능을 가진 MapBase 전용 BallObject" alt="" coords="136,5,355,47"/>
 </map>
 </td></tr>
 <tr><td><img src="inherit_graph_1.png" border="0" usemap="#a_creatz_8_data_base_8_hole_preset_data" alt=""/>
@@ -98,7 +98,7 @@ $(function() {
 <tr><td><img src="inherit_graph_5.png" border="0" usemap="#a_creatz_8_i_load_map_dependent" alt=""/>
 <map name="a_creatz_8_i_load_map_dependent" id="a_creatz_8_i_load_map_dependent">
 <area shape="rect" href="interface_creatz_1_1_i_load_map_dependent.html" title=" " alt="" coords="191,137,373,163"/>
-<area shape="rect" href="class_creatz_1_1_map_base_1_1_map_pin_u_s_base.html" title=" " alt="" coords="448,137,663,163"/>
+<area shape="rect" href="class_creatz_1_1_map_base_1_1_map_pin_u_s_base.html" title="Creatz.MapBase용 MapPin" alt="" coords="448,137,663,163"/>
 <area shape="rect" href="class_creatz_1_1_map_base_1_1_map_pin_u_s.html" title=" " alt="" coords="711,137,896,163"/>
 <area shape="rect" title=" " alt="" coords="5,326,116,353"/>
 <area shape="rect" href="class_creatz_1_1_map_base_1_1_cam_1_1_cam_controller_object.html" title="CamController 초기화를 위해 필요" alt="" coords="164,5,400,47"/>
@@ -107,12 +107,12 @@ $(function() {
 <area shape="rect" href="class_creatz_1_1_map_base_1_1_sample_1_1_draw_trajectory_menu.html" title=" " alt="" coords="182,319,382,360"/>
 <area shape="rect" href="class_creatz_1_1_map_base_1_1_sample_1_1_expand_menu_button.html" title="Menu 관련 UI" alt="" coords="175,384,389,425"/>
 <area shape="rect" href="class_creatz_1_1_map_base_1_1_sample_1_1_load_scene_from_json_menu.html" title=" " alt="" coords="183,449,381,491"/>
-<area shape="rect" href="class_creatz_1_1_map_base_1_1_sample_1_1_register_ball_inctance.html" title=" " alt="" coords="173,515,391,556"/>
+<area shape="rect" href="class_creatz_1_1_map_base_1_1_sample_1_1_register_ball_inctance.html" title="DrawTrajectoryMenu.LastBallInstantce�� ��»ó ballMaps�� ��·Ï" alt="" coords="173,515,391,556"/>
 <area shape="rect" href="class_creatz_1_1_map_base_1_1_sample_1_1_sample_add_pin.html" title="특정 Map location에 Pin 생성" alt="" coords="175,580,389,621"/>
 <area shape="rect" href="class_creatz_1_1_map_base_1_1_sample_1_1_sample_draw_trajectory.html" title=" " alt="" coords="175,71,389,112"/>
 <area shape="rect" href="class_creatz_1_1_map_base_1_1_sample_1_1_sample_cam_control.html" title="CamObject ��¼Ó ���Ã" alt="" coords="448,5,663,47"/>
-<area shape="rect" href="class_creatz_1_1_map_base_1_1_cam_1_1_ignore_picking_canvas.html" title=" " alt="" coords="461,188,650,229"/>
-<area shape="rect" href="class_creatz_1_1_map_base_1_1_line_render_handle.html" title=" " alt="" coords="461,253,649,295"/>
+<area shape="rect" href="class_creatz_1_1_map_base_1_1_cam_1_1_ignore_picking_canvas.html" title="Picking 작동하지 않게 할 UI가 포함 된 Canvas에 attach하여 사용" alt="" coords="461,188,650,229"/>
+<area shape="rect" href="class_creatz_1_1_map_base_1_1_line_render_handle.html" title="Trajectory ǥÇöÇϱâ ��ÇÑ LineRenderer control" alt="" coords="461,253,649,295"/>
 </map>
 </td></tr>
 <tr><td><img src="inherit_graph_6.png" border="0" usemap="#a_creatz_8_map_base_8_cam_8_cam_controller" alt=""/>
@@ -146,66 +146,61 @@ $(function() {
 <area shape="rect" href="class_creatz_1_1_map_base_1_1_delta.html" title="LatLon 연산용 클래스(latlon은 덧셈 뺄셈 이런게 없음)" alt="" coords="5,5,159,32"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_12.png" border="0" usemap="#a_creatz_8_map_base_8_events_8_key_control" alt=""/>
-<map name="a_creatz_8_map_base_8_events_8_key_control" id="a_creatz_8_map_base_8_events_8_key_control">
-<area shape="rect" href="class_creatz_1_1_map_base_1_1_events_1_1_key_control.html" title=" " alt="" coords="5,5,195,47"/>
-</map>
-</td></tr>
-<tr><td><img src="inherit_graph_13.png" border="0" usemap="#a_creatz_8_map_base_8_events_8_map_events_8_functions" alt=""/>
+<tr><td><img src="inherit_graph_12.png" border="0" usemap="#a_creatz_8_map_base_8_events_8_map_events_8_functions" alt=""/>
 <map name="a_creatz_8_map_base_8_events_8_map_events_8_functions" id="a_creatz_8_map_base_8_events_8_map_events_8_functions">
-<area shape="rect" href="struct_creatz_1_1_map_base_1_1_events_1_1_map_events_1_1_functions.html" title=" " alt="" coords="5,5,196,47"/>
+<area shape="rect" href="struct_creatz_1_1_map_base_1_1_events_1_1_map_events_1_1_functions.html" title="함수 등록자" alt="" coords="5,5,196,47"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_14.png" border="0" usemap="#a_creatz_8_map_base_8_events_8_map_events_8_pairs" alt=""/>
+<tr><td><img src="inherit_graph_13.png" border="0" usemap="#a_creatz_8_map_base_8_events_8_map_events_8_pairs" alt=""/>
 <map name="a_creatz_8_map_base_8_events_8_map_events_8_pairs" id="a_creatz_8_map_base_8_events_8_map_events_8_pairs">
-<area shape="rect" href="struct_creatz_1_1_map_base_1_1_events_1_1_map_events_1_1_pairs.html" title=" " alt="" coords="5,5,196,47"/>
+<area shape="rect" href="struct_creatz_1_1_map_base_1_1_events_1_1_map_events_1_1_pairs.html" title="실제 함수와 함수 등록자의 Pair" alt="" coords="5,5,196,47"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_15.png" border="0" usemap="#a_creatz_8_map_base_8_events_8_map_pin_event_base" alt=""/>
+<tr><td><img src="inherit_graph_14.png" border="0" usemap="#a_creatz_8_map_base_8_events_8_map_pin_event_base" alt=""/>
 <map name="a_creatz_8_map_base_8_events_8_map_pin_event_base" id="a_creatz_8_map_base_8_events_8_map_pin_event_base">
-<area shape="rect" href="class_creatz_1_1_map_base_1_1_events_1_1_map_pin_event_base.html" title=" " alt="" coords="5,5,196,47"/>
+<area shape="rect" href="class_creatz_1_1_map_base_1_1_events_1_1_map_pin_event_base.html" title="PinEvent 관련" alt="" coords="5,5,196,47"/>
 <area shape="rect" href="class_creatz_1_1_map_base_1_1_events_1_1_map_pin_update_function.html" title=" " alt="" coords="244,5,435,47"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_16.png" border="0" usemap="#a_creatz_8_map_base_8_events_8_mode_function_base" alt=""/>
+<tr><td><img src="inherit_graph_15.png" border="0" usemap="#a_creatz_8_map_base_8_events_8_mode_function_base" alt=""/>
 <map name="a_creatz_8_map_base_8_events_8_mode_function_base" id="a_creatz_8_map_base_8_events_8_mode_function_base">
-<area shape="rect" href="class_creatz_1_1_map_base_1_1_events_1_1_mode_function_base.html" title=" " alt="" coords="5,71,204,112"/>
+<area shape="rect" href="class_creatz_1_1_map_base_1_1_events_1_1_mode_function_base.html" title="ModeTargetted function class" alt="" coords="5,71,204,112"/>
 <area shape="rect" href="class_creatz_1_1_map_base_1_1_events_1_1_key_function.html" title=" " alt="" coords="261,5,450,47"/>
 <area shape="rect" href="class_creatz_1_1_map_base_1_1_events_1_1_load_function.html" title=" " alt="" coords="258,71,453,112"/>
 <area shape="rect" href="class_creatz_1_1_map_base_1_1_events_1_1_update_function.html" title=" " alt="" coords="252,136,459,177"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_17.png" border="0" usemap="#a_creatz_8_map_base_8_line_on_screen" alt=""/>
+<tr><td><img src="inherit_graph_16.png" border="0" usemap="#a_creatz_8_map_base_8_line_on_screen" alt=""/>
 <map name="a_creatz_8_map_base_8_line_on_screen" id="a_creatz_8_map_base_8_line_on_screen">
-<area shape="rect" href="struct_creatz_1_1_map_base_1_1_line_on_screen.html" title=" " alt="" coords="5,5,211,32"/>
+<area shape="rect" href="struct_creatz_1_1_map_base_1_1_line_on_screen.html" title="PointOnScreen 2개를 잇는 Line" alt="" coords="5,5,211,32"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_18.png" border="0" usemap="#a_creatz_8_map_base_8_point_on_screen" alt=""/>
+<tr><td><img src="inherit_graph_17.png" border="0" usemap="#a_creatz_8_map_base_8_point_on_screen" alt=""/>
 <map name="a_creatz_8_map_base_8_point_on_screen" id="a_creatz_8_map_base_8_point_on_screen">
-<area shape="rect" href="struct_creatz_1_1_map_base_1_1_point_on_screen.html" title=" " alt="" coords="5,5,216,32"/>
+<area shape="rect" href="struct_creatz_1_1_map_base_1_1_point_on_screen.html" title="WorldPosition, ScreenPosition 두 개를 모두 가지는 Struct" alt="" coords="5,5,216,32"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_19.png" border="0" usemap="#a_creatz_8_map_info" alt=""/>
+<tr><td><img src="inherit_graph_18.png" border="0" usemap="#a_creatz_8_map_info" alt=""/>
 <map name="a_creatz_8_map_info" id="a_creatz_8_map_info">
 <area shape="rect" href="class_creatz_1_1_map_info.html" title="Map 관련 정보 접근" alt="" coords="5,5,115,32"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_20.png" border="0" usemap="#a_map_data_cache_base" alt=""/>
+<tr><td><img src="inherit_graph_19.png" border="0" usemap="#a_map_data_cache_base" alt=""/>
 <map name="a_map_data_cache_base" id="a_map_data_cache_base">
 <area shape="rect" title=" " alt="" coords="5,13,147,39"/>
 <area shape="rect" href="class_microsoft_1_1_maps_1_1_unity_1_1_map_data_cache_u_s.html" title="This component provides an interface to configure the cache size that is used to store MapRenderer da..." alt="" coords="195,5,369,47"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_21.png" border="0" usemap="#a_map_renderer_base" alt=""/>
+<tr><td><img src="inherit_graph_20.png" border="0" usemap="#a_map_renderer_base" alt=""/>
 <map name="a_map_renderer_base" id="a_map_renderer_base">
 <area shape="rect" title=" " alt="" coords="5,5,135,32"/>
 <area shape="rect" href="class_creatz_1_1_map_base_1_1_map_renderer_u_s.html" title=" " alt="" coords="183,5,401,32"/>
 </map>
 </td></tr>
-<tr><td><img src="inherit_graph_22.png" border="0" usemap="#a_moment_hit" alt=""/>
+<tr><td><img src="inherit_graph_21.png" border="0" usemap="#a_moment_hit" alt=""/>
 <map name="a_moment_hit" id="a_moment_hit">
 <area shape="rect" title=" " alt="" coords="5,13,91,39"/>
-<area shape="rect" href="class_creatz_1_1_ray_physics_1_1_maps_support_1_1_moment_hit_maps.html" title=" " alt="" coords="139,5,357,47"/>
+<area shape="rect" href="class_creatz_1_1_ray_physics_1_1_maps_support_1_1_moment_hit_maps.html" title="MomentHit variation for MapBase" alt="" coords="139,5,357,47"/>
 </map>
 </td></tr>
 </table>

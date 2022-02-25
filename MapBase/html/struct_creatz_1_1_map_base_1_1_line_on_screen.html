@@ -74,23 +74,29 @@ $(function() {
   <div class="headertitle"><div class="title">Creatz.MapBase.LineOnScreen Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p><a class="el" href="struct_creatz_1_1_map_base_1_1_point_on_screen.html" title="WorldPosition, ScreenPosition 두 개를 모두 가지는 Struct">PointOnScreen</a> 2개를 잇는 Line  
+ <a href="struct_creatz_1_1_map_base_1_1_line_on_screen.html#details">More...</a></p>
 <div class="dynheader">
 Collaboration diagram for Creatz.MapBase.LineOnScreen:</div>
 <div class="dyncontent">
 <div class="center"><img src="struct_creatz_1_1_map_base_1_1_line_on_screen__coll__graph.png" border="0" usemap="#a_creatz_8_map_base_8_line_on_screen_coll__map" alt="Collaboration graph"/></div>
 <map name="a_creatz_8_map_base_8_line_on_screen_coll__map" id="a_creatz_8_map_base_8_line_on_screen_coll__map">
-<area shape="rect" title=" " alt="" coords="8,109,213,136"/>
-<area shape="rect" href="struct_creatz_1_1_map_base_1_1_point_on_screen.html" title=" " alt="" coords="5,5,216,32"/>
+<area shape="rect" title="PointOnScreen 2개를 잇는 Line" alt="" coords="8,109,213,136"/>
+<area shape="rect" href="struct_creatz_1_1_map_base_1_1_point_on_screen.html" title="WorldPosition, ScreenPosition 두 개를 모두 가지는 Struct" alt="" coords="5,5,216,32"/>
 </map>
 <center><span class="legend">[<a href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a6a33df94ad79a1f5793ff85f99d9c447"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_creatz_1_1_map_base_1_1_line_on_screen.html#a6a33df94ad79a1f5793ff85f99d9c447">GetDistanceTo</a> (Vector2 screenPoint)</td></tr>
+<tr class="memdesc:a6a33df94ad79a1f5793ff85f99d9c447"><td class="mdescLeft">&#160;</td><td class="mdescRight">screen point와 LineRenderer의 모든 점들과의 최소 거리를 획득  <a href="struct_creatz_1_1_map_base_1_1_line_on_screen.html#a6a33df94ad79a1f5793ff85f99d9c447">More...</a><br /></td></tr>
 <tr class="separator:a6a33df94ad79a1f5793ff85f99d9c447"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a57049531ffbfb6d286f7fbcfc2cd3362"><td class="memItemLeft" align="right" valign="top">Vector2&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_creatz_1_1_map_base_1_1_line_on_screen.html#a57049531ffbfb6d286f7fbcfc2cd3362">GetNearestPointOnLineOnScreen</a> (Vector2 screenPoint)</td></tr>
+<tr class="memdesc:a57049531ffbfb6d286f7fbcfc2cd3362"><td class="mdescLeft">&#160;</td><td class="mdescRight">LineRenderer의 점들 중 screenPoint와 가장 가까운 것의 ScreenPosition을 획득  <a href="struct_creatz_1_1_map_base_1_1_line_on_screen.html#a57049531ffbfb6d286f7fbcfc2cd3362">More...</a><br /></td></tr>
 <tr class="separator:a57049531ffbfb6d286f7fbcfc2cd3362"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae778debbf9dd80768d5c238549cc8ae8"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_creatz_1_1_map_base_1_1_line_on_screen.html#ae778debbf9dd80768d5c238549cc8ae8">LineOnScreen</a> (Vector3 <a class="el" href="struct_creatz_1_1_map_base_1_1_line_on_screen.html#af17e665b7dcba4821dc188851d11b6ad">begin</a>, Vector3 <a class="el" href="struct_creatz_1_1_map_base_1_1_line_on_screen.html#a68250db3ebffc2308c12bf33a7262363">end</a>)</td></tr>
+<tr class="memdesc:ae778debbf9dd80768d5c238549cc8ae8"><td class="mdescLeft">&#160;</td><td class="mdescRight">거리가 0일 경우 오류 가능성 있음  <a href="struct_creatz_1_1_map_base_1_1_line_on_screen.html#ae778debbf9dd80768d5c238549cc8ae8">More...</a><br /></td></tr>
 <tr class="separator:ae778debbf9dd80768d5c238549cc8ae8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
@@ -100,7 +106,9 @@ Public Attributes</h2></td></tr>
 <tr class="memitem:a68250db3ebffc2308c12bf33a7262363"><td class="memItemLeft" align="right" valign="top">readonly <a class="el" href="struct_creatz_1_1_map_base_1_1_point_on_screen.html">PointOnScreen</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_creatz_1_1_map_base_1_1_line_on_screen.html#a68250db3ebffc2308c12bf33a7262363">end</a></td></tr>
 <tr class="separator:a68250db3ebffc2308c12bf33a7262363"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p ><a class="el" href="struct_creatz_1_1_map_base_1_1_point_on_screen.html" title="WorldPosition, ScreenPosition 두 개를 모두 가지는 Struct">PointOnScreen</a> 2개를 잇는 Line </p>
+</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="ae778debbf9dd80768d5c238549cc8ae8" name="ae778debbf9dd80768d5c238549cc8ae8"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ae778debbf9dd80768d5c238549cc8ae8">&#9670;&nbsp;</a></span>LineOnScreen()</h2>
 
@@ -127,6 +135,15 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>거리가 0일 경우 오류 가능성 있음 </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">begin</td><td></td></tr>
+    <tr><td class="paramname">end</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
+
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
@@ -146,6 +163,15 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>screen point와 LineRenderer의 모든 점들과의 최소 거리를 획득 </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">screenPoint</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd></dd></dl>
+
 </div>
 </div>
 <a id="a57049531ffbfb6d286f7fbcfc2cd3362" name="a57049531ffbfb6d286f7fbcfc2cd3362"></a>
@@ -163,6 +189,15 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>LineRenderer의 점들 중 screenPoint와 가장 가까운 것의 ScreenPosition을 획득 </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">screenPoint</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd></dd></dl>
 
 </div>
 </div>

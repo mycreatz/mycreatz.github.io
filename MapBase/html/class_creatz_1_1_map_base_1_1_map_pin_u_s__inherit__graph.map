@@ -1,6 +1,6 @@
 <map id="Creatz.MapBase.MapPinUS" name="Creatz.MapBase.MapPinUS">
 <area shape="rect" id="node1" title=" " alt="" coords="60,229,245,256"/>
-<area shape="rect" id="node2" href="$class_creatz_1_1_map_base_1_1_map_pin_u_s_base.html" title=" " alt="" coords="95,155,210,181"/>
+<area shape="rect" id="node2" href="$class_creatz_1_1_map_base_1_1_map_pin_u_s_base.html" title="Creatz.MapBase용 MapPin" alt="" coords="95,155,210,181"/>
 <area shape="rect" id="node3" href="$class_creatz_1_1_map_base_1_1_events_1_1_map_event_behaviour.html" title="Map 상태에 따라 업데이트가 활성/비활성 되는 MonoBehavior" alt="" coords="5,80,140,107"/>
 <area shape="rect" id="node4" title=" " alt="" coords="17,5,128,32"/>
 <area shape="rect" id="node5" href="$interface_creatz_1_1_i_load_map_dependent.html" title=" " alt="" coords="164,80,304,107"/>

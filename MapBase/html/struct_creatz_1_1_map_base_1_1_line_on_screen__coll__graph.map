@@ -1,4 +1,4 @@
 <map id="Creatz.MapBase.LineOnScreen" name="Creatz.MapBase.LineOnScreen">
-<area shape="rect" id="node1" title=" " alt="" coords="8,109,213,136"/>
-<area shape="rect" id="node2" href="$struct_creatz_1_1_map_base_1_1_point_on_screen.html" title=" " alt="" coords="5,5,216,32"/>
+<area shape="rect" id="node1" title="PointOnScreen 2개를 잇는 Line" alt="" coords="8,109,213,136"/>
+<area shape="rect" id="node2" href="$struct_creatz_1_1_map_base_1_1_point_on_screen.html" title="WorldPosition, ScreenPosition 두 개를 모두 가지는 Struct" alt="" coords="5,5,216,32"/>
 </map>
